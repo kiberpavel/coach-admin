@@ -1,0 +1,36 @@
+{
+  "en": {
+    "exercises": {
+      "title": "Exercises"
+    },
+    "login": {
+      "title": "Login",
+      "emailLabel": "Email address",
+      "passwordLabel": "Password",
+      "emailPlaceholder": "Enter email",
+      "passwordPlaceholder": "Enter password",
+      "requiredEmail": "Email is required!",
+      "requiredPassword": "Password is required!",
+      "notValidEmail": "Must be a valid email"
+    },
+    "users": {
+      "title": "Users"
+    },
+    "workouts": {
+      "title": "Workouts"
+    },
+    "admin": {
+      "title": "Admin"
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "link": "Go Home"
+    },
+    "notifications": {
+      "unauthorized": {
+        "message": "Unauthorized",
+        "description": "Invalid credentials"
+      }
+    }
+  }
+}

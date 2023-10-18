@@ -1,0 +1,11 @@
+.header-wrapper {
+  @apply sticky top-0 h-16 p-5 flex justify-between items-center border-b border-gray-300 bg-white dark:bg-black-light dark:text-white dark:border-gray-800;
+
+  &-content {
+    @apply flex items-center;
+  }
+}
+
+.ant-page-header-heading-title {
+  @apply dark:text-white;
+}

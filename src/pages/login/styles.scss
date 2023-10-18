@@ -1,0 +1,11 @@
+.login-wrap {
+  @apply flex justify-around items-center pt-40 mx-20;
+
+  &-logo {
+    @apply w-2/5 lg:hidden;
+  }
+}
+
+.ant-form-item-control-input-content {
+  @apply h-11;
+}

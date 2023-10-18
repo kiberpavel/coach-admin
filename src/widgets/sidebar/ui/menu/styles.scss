@@ -1,0 +1,27 @@
+.ant-menu.ant-menu-root.ant-menu-inline.ant-menu-dark {
+  @apply bg-transparent;
+}
+
+.ant-menu.ant-menu-root.ant-menu-vertical.ant-menu-inline-collapsed.ant-menu-dark {
+  @apply bg-transparent;
+}
+
+#menu-item.ant-menu-item-selected {
+  @apply bg-gray-600 dark:bg-blue-dark;
+}
+
+#menu-item.ant-menu-item-selected:before {
+  @apply absolute content-[''] bg-orange-400 h-10 left-0 w-0.5;
+}
+
+.menu-item-route {
+  @apply flex items-center;
+}
+
+.menu-item-icon {
+  @apply w-4 h-4 absolute;
+}
+
+.menu-item-text {
+  @apply ml-11;
+}

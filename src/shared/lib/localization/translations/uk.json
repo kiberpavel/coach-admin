@@ -1,0 +1,36 @@
+{
+  "uk": {
+    "exercises": {
+      "title": "Вправи"
+    },
+    "login": {
+      "title": "Логін",
+      "emailLabel": "Електронна пошта",
+      "passwordLabel": "Пароль",
+      "emailPlaceholder": "Введіть пошту",
+      "passwordPlaceholder": "Введіть пароль",
+      "requiredEmail": "Email обов'язковий!",
+      "requiredPassword": "Пароль обов'язковий!",
+      "notValidEmail": "Повинен бути валідний email"
+    },
+    "users": {
+      "title": "Користувачі"
+    },
+    "workouts": {
+      "title": "Тренування"
+    },
+    "admin": {
+      "title": "Адмін"
+    },
+    "notFound": {
+      "title": "Сторінку Не Знайдено",
+      "link": "На Головну"
+    },
+    "notifications": {
+      "unauthorized": {
+        "message": "Не авторизовано",
+        "description": "Неправильні облікові дані"
+      }
+    }
+  }
+}

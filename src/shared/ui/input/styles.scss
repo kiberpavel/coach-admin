@@ -1,0 +1,11 @@
+.input {
+  @apply w-96 h-10 rounded border border-gray-300 bg-white-dark pl-12 dark:bg-gray-500 dark:text-white dark:border-black sm:w-80 hover:border-orange-300 focus:border-orange-400;
+}
+
+.label {
+  @apply min-w-full sm:w-80;
+}
+
+.input-error {
+  @apply text-red-600;
+}

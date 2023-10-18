@@ -1,0 +1,19 @@
+.login-wrap-form {
+  @apply bg-white rounded-xl px-6 mr-32 w-108 flex flex-col justify-center dark:bg-blue-dark sm:w-96 lg:mr-0;
+
+  &-title {
+    @apply text-2xl text-center mt-8 mb-4 dark:text-white sm:text-2xl;
+  }
+}
+
+.input-icon {
+  @apply w-6 h-6 absolute top-2 left-3 z-40;
+}
+
+.ant-form-item-label > label {
+  @apply dark:text-white
+}
+
+.ant-col.ant-col-18.ant-col-offset-9.ant-form-item-control {
+  @apply mt-3;
+}

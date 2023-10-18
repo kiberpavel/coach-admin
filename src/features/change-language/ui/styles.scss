@@ -1,0 +1,35 @@
+.select-lang-icon {
+  @apply w-5 h-5 dark:fill-white;
+}
+
+.ant-select-selection-item {
+  @apply hidden;
+}
+
+.ant-select-item {
+  @apply w-28;
+}
+
+.ant-select-dropdown.ant-select-dropdown-placement-bottomLeft {
+  @apply dark:bg-gray-300;
+}
+
+.ant-select-item.ant-select-item-option.ant-select-item-option-selected {
+  @apply bg-orange-300;
+}
+
+.ant-select-item.ant-select-item-option.ant-select-item-option-active.ant-select-item-option-selected {
+  @apply bg-orange-300;
+}
+
+.select-language {
+  @apply text-sm text-blue-dark dark:text-white;
+}
+
+.ant-select.ant-select-borderless.ant-select-single.ant-select-show-arrow {
+  @apply w-10;
+}
+
+span.ant-select-arrow {
+  @apply w-full left-0;
+}

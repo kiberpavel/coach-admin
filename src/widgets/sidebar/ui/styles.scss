@@ -1,0 +1,7 @@
+div.ant-layout-sider-trigger {
+  @apply bg-gray-600 dark:bg-blue-dark;
+}
+
+.ant-layout-sider-trigger {
+  @apply hidden md:block;
+}

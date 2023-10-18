@@ -1,0 +1,6 @@
+@import 'ant-design-vue/dist/antd.css';
+@import 'tailwind.scss';
+
+#app {
+  @apply h-full bg-gray-light dark:bg-deep-black font-sans;
+}

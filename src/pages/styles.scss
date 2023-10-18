@@ -1,0 +1,15 @@
+.layout {
+  @apply h-full;
+
+  &-sider {
+    @apply w-64 bg-blue-dark dark:bg-black-dark;
+  }
+}
+
+.ant-layout-content {
+  @apply dark:bg-deep-black dark:text-white;
+}
+
+.ant-layout-sider.ant-layout-sider-dark {
+  @apply h-full bg-blue-dark dark:bg-black-dark;
+}

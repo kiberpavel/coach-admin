@@ -1,0 +1,15 @@
+.user-info-wrapper {
+  @apply mt-20 mb-5 flex flex-col items-center;
+
+  &-content {
+    @apply mt-5 flex flex-col items-center text-white text-sm;
+
+    &-name {
+      @apply pt-2 text-base;
+    }
+  }
+}
+
+span.ant-avatar.ant-avatar-circle.ant-avatar-icon {
+  @apply flex items-center justify-center;
+}

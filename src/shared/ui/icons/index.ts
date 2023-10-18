@@ -1,0 +1,9 @@
+export { default as LanguageIcon } from './language-icon/index.vue';
+export { default as MoonIcon } from './moon-icon/index.vue';
+export { default as SunIcon } from './sun-icon/index.vue';
+export { default as LogoutIcon } from './logout-icon/index.vue';
+export { default as EmailIcon } from './email-icon/index.vue';
+export { default as PasswordIcon } from './password-icon/index.vue';
+export { default as ExercisesIcon } from './exercises-icon/index.vue';
+export { default as WorkoutsIcon } from './workouts-icon/index.vue';
+export { default as UsersIcon } from './users-icon/index.vue';
